@@ -16,6 +16,8 @@ Additionally, I have worked on the Back-End to complement the Front-End with Nod
 
 [![Pokédex App](https://github-readme-stats.vercel.app/api/pin/?username=carlosmartoz&repo=pokedex&bg_color=0B1622&title_color=EDF2F4&text_color=EDF2F4&border_color=FF0000&icon_color=FF0000)](https://github.com/carlosmartoz/pokedex)
 
+[![Pokédex App](https://github-readme-stats.vercel.app/api/pin/?username=carlosmartoz&repo=task-app&bg_color=0B1622&title_color=EDF2F4&text_color=EDF2F4&border_color=FF0000&icon_color=FF0000)](https://github.com/carlosmartoz/task-app)
+
 ## 📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmartoz&layout=compact&bg_color=0B1622&title_color=EDF2F4&text_color=EDF2F4&icon_color=FF0000&border_color=FF0000)](https://github.com/carlosmartoz/)
