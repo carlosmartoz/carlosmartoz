@@ -1,4 +1,4 @@
-[![Carlos's GitHub Banner](./banner-work.png)](https://github.com/carlosmartoz/)
+[![Carlos's GitHub Banner](./banner-github.png)](https://github.com/carlosmartoz/)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informationa?style=for-the-badge&logo=html5&logoColor=EDF2F4&color=0B1622&labelColor=FF0000)](https://www.linkedin.com/in/carlosmartoz/)
 
