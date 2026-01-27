@@ -1,6 +1,6 @@
 [![Carlos's GitHub Banner](./banner.png)](https://github.com/carlosmartoz/)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informationa?style=for-the-badge&logo=html5&logoColor=EDF2F4&color=0B1622&labelColor=FF0000)](https://www.linkedin.com/in/carlosmartoz/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informationa?style=for-the-badge&logo=linkedin&logoColor=fafafa&color=0a0a0a&labelColor=0a0a0a)](https://www.linkedin.com/in/carlosmartoz/)
 
 # About
 
