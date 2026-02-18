@@ -6,9 +6,7 @@
 
 Front-End Developer experienced in Next.js, JavaScript, and TypeScript, focused on building scalable web interfaces and translating Figma designs into high-fidelity UI using front-end best practices.
 
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=carlosmartoz&hide_border=true&exclude_days=Sun%2CSat&background=0A0A0A&stroke=FAFAFA&ring=FAFAFA&fire=FAFAFA&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FAFAFA&sideLabels=FAFAFA&dates=FAFAFA&excludeDaysLabel=FAFAFA)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=carlosmartoz&hide_border=true&exclude_days=Sun%2CSat&background=0A0A0A&stroke=FAFAFA&ring=FAFAFA&fire=FAFAFA&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FAFAFA&sideLabels=FAFAFA&dates=FAFAFA&excludeDaysLabel=FAFAFA)](https://git.io/streak-stats)
 
 <!-- ## GitHub Stats
 
