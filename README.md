@@ -11,8 +11,6 @@
 
 Frontend React Developer with over 5 years of experience building modern and scalable web applications using React, Next.js, TypeScript, and JavaScript. Specialized in developing intuitive user interfaces, API integrations, performance optimization, and component-based architectures. Passionate about creating high-quality user experiences and leveraging AI-powered tools to accelerate development and deliver efficient, production-ready solutions.
 
----
-
 ## 🚀 Tech Stack
 
 ### Languages & Frameworks
@@ -69,12 +67,8 @@ Frontend React Developer with over 5 years of experience building modern and sca
 - ChatGPT
 - Gemini
 
----
-
 ## 🌐 Connect With Me
 
 - Portfolio: https://www.carlosmartoz.com
 - LinkedIn: https://linkedin.com/in/TU-USUARIO
 - GitHub: https://github.com/carlosmartoz
-
----
