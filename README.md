@@ -1,13 +1,80 @@
-[![Carlos's GitHub Banner](./banner.png)](https://github.com/carlosmartoz/)
+[![Carlos's GitHub Banner](./banner.png)](https://github.com/carlosmartoz)
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs)
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0a0a0a?logo=linkedin-white&logoColor=fafafa)](https://www.linkedin.com/in/carlosmartoz/)
+# Hi, I'm Carlos Martínez 👋
 
-# About
+### Frontend React Developer | React, Next.js, TypeScript & AI-Assisted Development
 
-Front-End Developer experienced in Next.js, JavaScript, and TypeScript, focused on building scalable web interfaces and translating Figma designs into high-fidelity UI using front-end best practices.
+Frontend React Developer with over 5 years of experience building modern and scalable web applications using React, Next.js, TypeScript, and JavaScript. Specialized in developing intuitive user interfaces, API integrations, performance optimization, and component-based architectures. Passionate about creating high-quality user experiences and leveraging AI-powered tools to accelerate development and deliver efficient, production-ready solutions.
 
-<!-- ## GitHub Stats
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmartoz&layout=compact&bg_color=0a0a0a&title_color=fafafa&text_color=fafafa&icon_color=fafafa&border_color=0a0a0a)](https://github.com/carlosmartoz/)
+## 🚀 Tech Stack
 
-[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmartoz&show_icons=true&bg_color=0a0a0a&title_color=fafafa&text_color=fafafa&icon_color=fafafa&border_color=0a0a0a)](https://github.com/carlosmartoz/) -->
+### Languages & Frameworks
+
+- React
+- Next.js
+- TypeScript
+- JavaScript (ES6+)
+- Vue.js
+- Angular
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- Shadcn/UI
+
+### Testing & Code Quality
+
+- Jest
+- React Testing Library
+- Storybook
+- Cypress
+
+### APIs & Integrations
+
+- REST APIs
+- External API Integration
+- Authentication Flows
+- AI-Powered Features
+
+### Performance & Architecture
+
+- Component-Based Architecture
+- Rendering Optimization
+- Code Splitting
+- Clean Code
+- State Management
+
+### Tools & Workflow
+
+- Git
+- GitHub
+- Vercel
+- Postman
+- Figma
+- Chrome DevTools
+- Visual Studio Code
+- Cursor
+
+### AI-Assisted Development
+
+- Claude Code
+- GitHub Copilot
+- ChatGPT
+- Gemini
+
+---
+
+## 🌐 Connect With Me
+
+- Portfolio: https://www.carlosmartoz.com
+- LinkedIn: https://linkedin.com/in/TU-USUARIO
+- GitHub: https://github.com/carlosmartoz
+
+---
