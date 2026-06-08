@@ -70,5 +70,5 @@ Frontend React Developer with over 5 years of experience building modern and sca
 ## 🌐 Connect With Me
 
 - Portfolio: https://www.carlosmartoz.com
-- LinkedIn: https://linkedin.com/in/TU-USUARIO
+- LinkedIn: https://linkedin.com/in/carlosmartoz
 - GitHub: https://github.com/carlosmartoz
