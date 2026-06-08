@@ -1,11 +1,10 @@
-[![Carlos's GitHub Banner](./banner.png)](https://github.com/carlosmartoz)
+# Hi, I'm Carlos Martínez 👋
+
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs)
-
-# Hi, I'm Carlos Martínez 👋
 
 ### Frontend React Developer | React, Next.js, TypeScript & AI-Assisted Development
 
