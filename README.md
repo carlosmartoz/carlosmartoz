@@ -6,9 +6,9 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs)
 
-### Frontend React Developer | React, Next.js, TypeScript & AI-Assisted Development
+### Frontend Engineer | React, Next.js, TypeScript & AI-Assisted Development
 
-Frontend React Developer with over 5 years of experience building modern and scalable web applications using React, Next.js, TypeScript, and JavaScript. Specialized in developing intuitive user interfaces, API integrations, performance optimization, and component-based architectures. Passionate about creating high-quality user experiences and leveraging AI-powered tools to accelerate development and deliver efficient, production-ready solutions.
+Frontend Engineer with over 5 years of experience building modern and scalable web applications using React, Next.js, TypeScript, and JavaScript. Specialized in developing intuitive user interfaces, API integrations, performance optimization, and component-based architectures. Passionate about creating high-quality user experiences and leveraging AI-powered tools to accelerate development and deliver efficient, production-ready solutions.
 
 ## 🚀 Tech Stack
 
