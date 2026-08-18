@@ -17,7 +17,7 @@ Frontend Engineer with 4+ years building web applications, with a focus on React
 
 ### Stack
 
-`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Node.js`
+`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Node.js` `REST APIs` `REST APIs` `Claude Code` `Git`
 
 ---
 
